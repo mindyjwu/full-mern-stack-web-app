@@ -25,7 +25,10 @@ const AboutUs = props => {
   )
 }
 
+<img src="https://images.app.goo.gl/QUdXT4mE418RL7CW6" alt="React Image" />
 // make this component available to be imported into any other file
 export default AboutUs
+
+
 
 // make this Aboutus
