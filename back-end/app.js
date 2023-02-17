@@ -78,6 +78,7 @@ app.post('/messages/save', async (req, res) => {
   }
 })
 app.get('/AboutUs', async (req, res) => {
+  console.log("hi")
   // load all messages from database
   const paragraph1 = `My name is Mindy, currently a senior at NYU doing Computer Science and Data Science with minor in Economics and Business Entertainment Media and Technology.
   I love going to the gym, cook, drink, paint, and hanging out with friends. During weekend, I love hanging out at the park or museums because
